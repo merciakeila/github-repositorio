@@ -13,6 +13,7 @@ Github Repositório, pesquisa de repositórios no github. É um projeto de estud
 ## Tecnologias usadas no projeto
 
 <li> React JS
+<li> Typescript
 <li> Styled Components
 <li> React Router Dom
 <li> Polished
@@ -26,7 +27,7 @@ Github Repositório, pesquisa de repositórios no github. É um projeto de estud
 <li> Consumir a API do Github buscado
 <li> Adição de um novo repositŕoio
 <li> Salvar novo respositório no estado
-<li> Fazer anotações de do o processo para ser utilizado em novos projetos
+<li> Fazer anotações do processo para ser utilizado em novos projetos
 
 <br>
 <br>
