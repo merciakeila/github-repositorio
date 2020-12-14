@@ -6,7 +6,7 @@ Github Repositório, pesquisa de repositórios no github. É um projeto de estud
 
 ## Design
 
-![repositorio](photo1.png)
+![repositorio](git.gif)
 <br>
 <br>
 
@@ -27,3 +27,10 @@ Github Repositório, pesquisa de repositórios no github. É um projeto de estud
 <li> Adição de um novo repositŕoio
 <li> Salvar novo respositório no estado
 <li> Fazer anotações de do o processo para ser utilizado em novos projetos
+
+<br>
+<br>
+
+## Sistema Operacional
+
+<li> Linux Ubuntu 20.4
